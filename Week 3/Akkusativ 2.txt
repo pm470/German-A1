@@ -1,0 +1,114 @@
+Zwischenmahlzeit
+
+BESTIMMTER ARTIKEL (Akkusativ)
+-------------------------------
+
+M = den***
+F = die
+N = das
+PL = die
+
+UNBESTIMMTER ARTIKEL (Akkusativ)
+---------------------------------
+
+M = einen***
+F = eine
+N = ein
+PL = ---
+
+NEGATIONSARTIKEL (Akkusativ)
+-----------------------------
+
+M = keinen***
+F = keine
+N = kein
+PL = keine
+
+Akkusativ = Action on direct object
+            Eine Bewegung (movement)
+            Change in position
+
+Der Tisch ist schön. (Nominativ)
+Die Lampe ist teuer. (Nominativ)
+
+Ich kaufe den Tisch. 2nd pos = verb mostly after subject
+nom         akk
+
+Max kauft die Lampe.
+nom         akk
+
+Ich esse den Apfel.
+         einen Apfel.
+         keinen Apfel.
+           Akkusativ
+
+Du isst den Käse.
+        einen Käse.
+        keinen Käse.
+         Akkusativ
+
+Wir essen die Marmelade.
+          eine Marmelade.
+          keine Marmelade.
+           Akkusativ
+
+Sie essen das Fleisch.
+          ein Fleisch.
+          kein Fleisch.
+           Akkusativ
+Haben
+------
+
+Ich habe den Kuli.
+nom       akk
+         einen Kuli.
+         keinen Kuli.
+          Akkusativ
+
+Er hat die Wurst.
+       eine Wurst.
+       keine Wurst.
+       Akkusativ
+
+Brauchen
+--------
+
+Ich brauche den Salat.
+            einen Salat.
+            keinen Salat.
+
+Wir brauchen die Butter.
+             eine Butter.
+             keine Butter.
+
+Ihr braucht die Tomate.
+            eine Tomate.
+            keine Tomate.
+
+kaufen
+essen
+brauchen
+haben
+
+Ich brauche die Eier.
+            Eier.
+            keine Eier.
+
+Dinge oder Gegenstände = things
+
+Ich habe einen Kuli.
+         den Kuli.
+         keinen Kuli.
+
+Du hast einen Kuli.
+        den Kuli.
+        keinen Kuli.
+
+Er...
+Sie...
+Es....
+
+Was haben Sie zum Frühstück gegessen?
+Was essen Sie zum Frühstück?
+
+

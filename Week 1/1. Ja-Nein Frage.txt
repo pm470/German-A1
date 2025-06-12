@@ -1,0 +1,46 @@
+Two types of questions:
+	-> W-Frage
+	-> Ja-Nein Frage
+
+Ja-Nein Frage
+
+Frage (Question) : Verb + Sub + Rest
+Antwort (Ans) : Ja/Nein, Sub + verb + rest 
+
+Question 			| Answer
+Kommst du aus Deutschland? 	| Ja, ich komme aus Deutschland. 		 Nein, ich komme nicht aus Deutschland.
+Ist das dein Buch? 		| Ja, das ist mein Buch. 			 Nein, das ist nicht mein Buch.
+
+
+_________________________________________________________________________________________
+Worksheet 1:
+________________________________________________________________________________________
+
+
+Schreib eine Ja/Nein-Fragen mit den gegebenen Wörter.
+
+1. (du / bist / müde)
+
+2. (sie / spielt / Tennis)
+
+3. (wir / wohnen / in Berlin)
+
+4. (er / hat / einen Hund)
+
+5. (ihr / geht / ins Kino) 
+
+_________________________________________________________________________________________
+Worksheet 2:
+________________________________________________________________________________________
+
+Antworten Sie Ja oder Nein.
+
+1. Arbeitest du heute?
+
+2. Hat sie eine Katze?
+
+3. Wohnt ihr in Hamburg?
+
+4. Lernst du Deutsch?
+
+5. Ist das Wetter schön?

@@ -1,0 +1,26 @@
+Unbestimmter artikel:
+
+singular M- ein		der
+singular F- eine		die
+singular N - ein		das
+Pl - 	     X  		die
+
+Negation -
+kein
+keine
+kein
+
+
+
+A ship is on the river. The ship is blue in color.
+(indefinite)		(definite)
+Ein schiff
+
+
+(X) Ships are on the riverside. They are blue in color.
+Schiffe
+
+--------------------------------------
+hier - here
+da - there
+-------------------------------------

@@ -1,0 +1,111 @@
+**A1 German Grammar: The Akkusativ Case**
+
+🔹 1. **What is the Akkusativ?**
+
+The **Akkusativ (Accusative case)** is used to show the **direct object** in a sentence — the person or thing that directly receives the action of the verb.
+
+**📌 Example (English):**
+
+* I see **the man**. → "The man" is the direct object.
+* Ich sehe **den Mann**.
+
+---
+
+### 🔹 2. **When Do We Use Akkusativ?**
+
+Use Akkusativ after:
+
+✅ **Certain verbs**
+✅ **Prepositions (Akkusativ-prepositions)**
+✅ **Time expressions (sometimes)**
+
+---
+
+### 🔹 3. **Akkusativ Articles**
+
+| Case                    | Masculine | Feminine | Neuter | Plural |
+| ----------------------- | --------- | -------- | ------ | ------ |
+| **Nominativ** (subject) | der       | die      | das    | die    |
+| **Akkusativ** (object)  | **den**   | die      | das    | die    |
+
+✅ Only **masculine** changes: `der → den`
+
+---
+
+### 🔹 4. **Example Sentences**
+
+**Subject (Nominative) + Verb + Object (Akkusativ):**
+
+| German                    | English                  |
+| ------------------------- | ------------------------ |
+| Ich sehe **den Hund**.    | I see **the dog**.       |
+| Er kauft **einen Apfel**. | He buys **an apple**.    |
+| Wir haben **eine Katze**. | We have **a cat**.       |
+| Sie trägt **das Kleid**.  | She wears **the dress**. |
+
+---
+
+### 🔹 5. **Akkusativ Pronouns**
+
+| Nominative | Akkusativ   | English           |
+| ---------- | ----------- | ----------------- |
+| ich        | **mich**    | me                |
+| du         | **dich**    | you (sing.)       |
+| er         | **ihn**     | him               |
+| sie        | **sie**     | her               |
+| es         | **es**      | it                |
+| wir        | **uns**     | us                |
+| ihr        | **euch**    | you (pl.)         |
+| sie/Sie    | **sie/Sie** | them/You (formal) |
+
+📌 Examples:
+
+* Ich liebe **dich**. = I love you.
+* Er sieht **mich**. = He sees me.
+* Wir hören **sie**. = We hear them.
+
+
+### 🔹 6. **Common Verbs that Take Akkusativ**
+
+| German Verb | English  |
+| ----------- | -------- |
+| sehen       | to see   |
+| hören       | to hear  |
+| essen       | to eat   |
+| trinken     | to drink |
+| kaufen      | to buy   |
+| lieben      | to love  |
+| brauchen    | to need  |
+| nehmen      | to take  |
+| finden      | to find  |
+| haben       | to have  |
+
+---
+
+### 🔹 7. **Akkusativ Prepositions (Always Akkusativ!)**
+
+These prepositions always need an Akkusativ object:
+
+➡️ **durch, für, gegen, ohne, um**
+
+| Preposition | Meaning | Example                          |
+| ----------- | ------- | -------------------------------- |
+| durch       | through | Ich gehe **durch den Park**.     |
+| für         | for     | Das ist **für dich**.            |
+| gegen       | against | Wir kämpfen **gegen den Feind**. |
+| ohne        | without | Ich gehe **ohne meinen Bruder**. |
+| um          | around  | Wir laufen **um das Haus**.      |
+
+
+
+Create simple sentences with **subject + verb + object**:
+
+
+
+### 🎯 Quick Test (Fill in the blanks)
+
+1. Ich sehe ___ Mann. (der)
+2. Sie kauft ___ Tasche. (die)
+3. Wir haben ___ Auto. (das)
+4. Du liebst ___ Frau. (die)
+5. Er braucht ___ Stift. (der)

@@ -1,0 +1,31 @@
+| German     | English            |
+| ---------- | ------------------ |
+| jetzt      | now                |
+| heute      | today              |
+| morgen     | tomorrow           |
+| gestern    | yesterday          |
+| bald       | soon               |
+| sofort     | immediately        |
+| manchmal   | sometimes          |
+| immer      | always             |
+| nie        | never              |
+| später     | later              |
+| vorhin     | a little while ago |
+| bereits    | already            |
+| inzwischen | in the meantime    |
+| oft        | often              |
+
+
+Am Mittag = Mittags
+Am Wochenende
+Am Morgen = Morgens
+
+
+Satz mit adverb
+
+Adverb + Verb + subject + rest.
+
+
+Ich esse Apfel.
+
+Manchmal esse ich Apfel.
