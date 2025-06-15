@@ -1,0 +1,23 @@
+akk- action of verb on akkusativ subject.
+   - some propositions always use akk
+       - e.g fu:r
+
+I buy this pen for you.
+I cook dinner for you.
+
+you- akkusativ sub.
+I- nom sub
+
+
+
+nom		akk
+ich		mich (me)
+du		dich (you)
+er		ihn  (him)
+sie		sie  (her)
+es		es   (it)
+wir		uns  (us)	
+ihr		euch (you pl, 2nd person)
+Sie/sie		Sie  (you [formal] / them [pl third person])
+
+
