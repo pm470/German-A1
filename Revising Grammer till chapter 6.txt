@@ -1,0 +1,32 @@
+Der Kuli bist(X) fur du(X).
+	ist	  dich.
+
+Den Kuli bist fur du. (X)
+
+The pen is for you. It is black.
+
+
+
+what is subject => Nom => du
+
+what is action (=> verb => bist/fur) and on whom (=> akk => Kuli).
+
+Subjects
+	-> Nominativ
+	-> Akkusativ
+Verben (gets conjugated according to nom subj) fahre, fahrst, fahrt fahren...
+	-> Trennbaren
+Pronomen (replacement for subject)
+	-> Nom (ich, du, er, sie ...)
+	-> Akk (mich, dich, ...)
+	-> Personal (mein, dein, ...)
+Prapositionen
+	-> placed before noun
+Adverbs
+
+Artikel
+	-> bestimmter the - der, die das
+	-> unbestimmter a,an -- ein, eine, ein
+		-> nom  : ein, eine, ein
+		-> akk :  einen, eine, ein
+		
