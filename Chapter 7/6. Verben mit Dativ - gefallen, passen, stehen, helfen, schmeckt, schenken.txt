@@ -1,0 +1,81 @@
+PERSONALPRONOMEN (Dativ)
+-------------------------
+
+mir
+dir
+ihm/ihr/ihm
+uns
+euch
+ihnen/ihnen
+
+gefallen = to please/to like
+
+Mir gef‰llt dein T-Shirt.
+Mir gefallen deine T-Shirts.
+
+Dir gef‰llt das Hemd.
+Dir gefallen die Hemden.
+
+Das Hemd gef‰llt dir.
+Die Hemden gefallen dir.
+
+
+Schmecken = to taste
+----------
+
+Die Banane schmeckt gut.
+Die Bananen schmecken gut.
+
+Die Banane schmeckt mir gut.
+Die Bananen schmecken mir gut.
+
+Mir schmeckt die Banane gut.
+
+stehen = to suit
+-------
+
+Mir steht der Pulli nicht so gut.
+Mir stehen die Hemden sehr gut.
+
+Die Krawatte steht uns gut.
+Die M‰ntel stehen uns ausgezeichnet.
+
+Passen = to fit
+--------
+
+Die Hose passt mir gut.
+Mir passt die Hose gut.
+dat         nom
+
+Die Hosen passen ihm nicht gut.
+Ihm passen die Hosen nicht gut.
+
+helfen = to help
+------- 
+
+Ich helfe dir.
+nom       dat
+
+Wir helfen euch.
+nom        dat
+
+Du hilfst ihnen.
+nom        dat
+
+schenken = to gift
+---------
+
+Ich schenke dir.
+nom         dat
+
+Ich schenke dir einen Kuli.
+nom         dat     akk
+
+Wir schenken ihm.
+nom          dat
+
+Wir schenken ihm einen Blumenstrauﬂ.
+nom          dat     akk
+
+
+
